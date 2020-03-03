@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    abstract class Area
+    abstract class Figure
     {
         abstract public int AreaCalculated();
     }

@@ -48,7 +48,7 @@
   <ItemGroup>
     <Compile Include="Abstraction\absDerived.cs" />
     <Compile Include="Abstraction\AbstractDerivedClass.cs" />
-    <Compile Include="Abstraction\Area.cs" />
+    <Compile Include="Abstraction\Figure.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

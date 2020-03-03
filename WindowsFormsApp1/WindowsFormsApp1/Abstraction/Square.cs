@@ -8,7 +8,7 @@ namespace WindowsFormsApp1
 {
     // class 'AreaClass' inherit 
     // in child class 'Square' 
-    class Square : Area
+    class Square : Figure
     {
         int side = 0;
 

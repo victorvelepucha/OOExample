@@ -34,15 +34,4 @@ namespace WindowsFormsApp1.Interface
             Console.WriteLine("GeeksforGeeks");
         }
     }
-
-    // Driver class 
-    class Sudo
-    {
-
-        // Main Method 
-        static void Main(string[] args)
-        {
-
-        }
-    }
 }
